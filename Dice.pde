@@ -23,8 +23,8 @@ void draw() {
 }
   
 void mousePressed() {
-  redraw();
   dSum = 0;
+  redraw();
 }
 
 class Die {
