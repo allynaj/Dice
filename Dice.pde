@@ -19,7 +19,7 @@ void draw() {
   rect(180, 180, 140, 150);
   fill(255);
   textSize(50);
-  text("Total:\n  " + dSum, 190, 230);
+  text("Total:\n " + dSum, 190, 240);
 }
   
 void mousePressed() {
